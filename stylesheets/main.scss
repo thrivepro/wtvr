@@ -1,0 +1,17 @@
+// Imports
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600;700&display=swap');
+
+// Fonts
+$family-primary: 'Quicksand', sans-serif;
+
+// Colors
+$color1: #000000;
+$color2: #d3ad69;
+$color3: #faefda;
+$color4: #121212;
+
+// Variables
+$primary: $color2;
+
+// Bulma
+@import "../node_modules/bulma/bulma.sass"
