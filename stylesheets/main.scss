@@ -17,6 +17,7 @@ $navbar-item-hover-color: $color2;
 $menu-item-hover-background-color: none;
 $menu-item-color: $color2;
 $menu-item-hover-color: $color3;
+$menu-list-link-padding: 0 0;
 
 // Backgrounds
 .bg-1 {
@@ -35,11 +36,6 @@ $menu-item-hover-color: $color3;
 .responsive {
     width: 100%;
   height: auto;
-}
-
-// Spacing
-.menu-list li {
-    list-style-position: inside;
 }
 
 // Bulma

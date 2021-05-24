@@ -16,10 +16,6 @@
   height: auto;
 }
 
-.menu-list li {
-  list-style-position: inside;
-}
-
 /*! bulma.io v0.9.2 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
 .button, .input, .textarea, .select select, .file-cta,
@@ -5417,7 +5413,7 @@ button.dropdown-item.is-active {
   border-radius: 2px;
   color: #d3ad69;
   display: block;
-  padding: 0.5em 0.75em;
+  padding: 0 0;
 }
 
 .menu-list a:hover {
