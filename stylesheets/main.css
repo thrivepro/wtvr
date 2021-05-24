@@ -7,9 +7,17 @@
   background-color: #faefda;
 }
 
+.txt-3 {
+  color: #faefda;
+}
+
 .responsive {
   width: 100%;
   height: auto;
+}
+
+.menu-list li {
+  list-style-position: inside;
 }
 
 /*! bulma.io v0.9.2 | MIT License | github.com/jgthms/bulma */
@@ -5407,14 +5415,14 @@ button.dropdown-item.is-active {
 
 .menu-list a {
   border-radius: 2px;
-  color: #4a4a4a;
+  color: #d3ad69;
   display: block;
   padding: 0.5em 0.75em;
 }
 
 .menu-list a:hover {
-  background-color: whitesmoke;
-  color: #363636;
+  background-color: none;
+  color: #faefda;
 }
 
 .menu-list a.is-active {
